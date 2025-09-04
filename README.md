@@ -60,6 +60,7 @@ plt.show()
 Output Waveform
 
 <img width="565" height="152" alt="image" src="https://github.com/user-attachments/assets/67507a1d-e9e0-48a3-9bb8-05c81a67d8f4" />
+<img width="565" height="152" alt="image" src="https://github.com/user-attachments/assets/126a9b3e-bf73-42ed-aeb8-2e17300f088f" />
 
 Tabular Column
 
