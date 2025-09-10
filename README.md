@@ -27,9 +27,11 @@ Algorithm
 6.	Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
 Program
+<img width="678" height="734" alt="image" src="https://github.com/user-attachments/assets/3de58221-6632-4534-acb8-f756039f49d4" />
 
 
 Output Waveform
+<img width="1228" height="677" alt="image" src="https://github.com/user-attachments/assets/b13e290c-7e47-414f-b324-8b8595723bd9" />
 
 
 Tabular Column
