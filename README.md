@@ -66,6 +66,8 @@ Tabular Column
 
 ![Uploading image.png…]()
 
+
+
 Calculation
 
 
