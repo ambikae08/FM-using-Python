@@ -27,6 +27,7 @@ Algorithm
 6.	Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
 Program
+```
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -54,7 +55,7 @@ plt.show()
 plt.subplot(3, 1, 3)
 plt.plot(t,efm)
 plt.show()
-
+```
 
 Output Waveform
 <img width="1228" height="677" alt="image" src="https://github.com/user-attachments/assets/b13e290c-7e47-414f-b324-8b8595723bd9" />
@@ -63,6 +64,7 @@ Output Waveform
 Tabular Column
 
 
+![Uploading image.png…]()
 
 Calculation
 
