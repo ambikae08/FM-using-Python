@@ -69,7 +69,7 @@ Tabular Column
 
 Calculation
 
-![WhatsApp Image 2025-10-27 at 17 03 58_debb246e](https://github.com/user-attachments/assets/83971005-5a9b-4fc6-8fdb-1aa9a6357fce)
+
 
 Result
 
